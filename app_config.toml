@@ -1,0 +1,11 @@
+[app]
+name = "MyApp"
+version = 1.2
+
+[logging]
+level = "INFO"
+file = "app.log"
+
+[features]
+enable_feature_x = true
+enable_feature_y = false
