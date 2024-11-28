@@ -1,5 +1,3 @@
-# converter
-3 homework config mirea
 # config-converter
 Третье домашнее задание по Конфигурационному Управлению
 
